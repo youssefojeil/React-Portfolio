@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.ed805a60.css",
-    "main.js": "/React-Portfolio/static/js/main.a6d188dd.js",
+    "main.js": "/React-Portfolio/static/js/main.b092046f.js",
     "static/media/lostboy.png": "/React-Portfolio/static/media/lostboy.944e28189e6a26cec433.png",
     "static/media/TravelBuddy.png": "/React-Portfolio/static/media/TravelBuddy.6ac20d0d343ed1f56179.png",
     "static/media/oyster.png": "/React-Portfolio/static/media/oyster.b9e9a28b3cfe84429e5e.png",
+    "static/media/home-page.png": "/React-Portfolio/static/media/home-page.85686eea99d96ddaa5dd.png",
     "static/media/CryptoFolio.png": "/React-Portfolio/static/media/CryptoFolio.f165540244536149e4cd.png",
     "static/media/portfolio.jpg": "/React-Portfolio/static/media/portfolio.c60735b862554e51a8a7.jpg",
     "static/media/gmail.svg": "/React-Portfolio/static/media/gmail.e63054e4dad72e0c58efb6c5b7b8184d.svg",
     "index.html": "/React-Portfolio/index.html",
     "main.ed805a60.css.map": "/React-Portfolio/static/css/main.ed805a60.css.map",
-    "main.a6d188dd.js.map": "/React-Portfolio/static/js/main.a6d188dd.js.map"
+    "main.b092046f.js.map": "/React-Portfolio/static/js/main.b092046f.js.map"
   },
   "entrypoints": [
     "static/css/main.ed805a60.css",
-    "static/js/main.a6d188dd.js"
+    "static/js/main.b092046f.js"
   ]
 }
